@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+.logo{
+	width: 10em;
+	height: auto;
+	
+}
+li{
+	list-style: none;
+	display: inline;
+}
+.icon{
+	width: 40px;
+	height: auto;
+}
+.ajuste{
+	margin: 0;
+	padding: 2em;
+}
+.ajuste2{
+	margin:0;
+}
+.ajuste3{
+	padding-top: 0.5em;
+}
